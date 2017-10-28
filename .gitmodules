@@ -1,0 +1,9 @@
+[submodule "module00"]
+	path = module00
+	url = https://github.com/adaptiveoptics-org/module00
+[submodule "module01"]
+	path = module01
+	url = https://github.com/adaptiveoptics-org/module01
+[submodule "module02"]
+	path = module02
+	url = https://github.com/adaptiveoptics-org/module02
